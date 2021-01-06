@@ -1,0 +1,13 @@
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\bin\Debug\netcoreapp3.1\GrupalParse.exe
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\bin\Debug\netcoreapp3.1\GrupalParse.deps.json
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\bin\Debug\netcoreapp3.1\GrupalParse.runtimeconfig.json
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\bin\Debug\netcoreapp3.1\GrupalParse.runtimeconfig.dev.json
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\bin\Debug\netcoreapp3.1\GrupalParse.dll
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\bin\Debug\netcoreapp3.1\GrupalParse.pdb
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\obj\Debug\netcoreapp3.1\GrupalParse.csprojAssemblyReference.cache
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\obj\Debug\netcoreapp3.1\GrupalParse.AssemblyInfoInputs.cache
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\obj\Debug\netcoreapp3.1\GrupalParse.AssemblyInfo.cs
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\obj\Debug\netcoreapp3.1\GrupalParse.csproj.CoreCompileInputs.cache
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\obj\Debug\netcoreapp3.1\GrupalParse.dll
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\obj\Debug\netcoreapp3.1\GrupalParse.pdb
+C:\Users\urqui\Documents\Apps Informaticas\GrupalParse\GrupalParse\obj\Debug\netcoreapp3.1\GrupalParse.genruntimeconfig.cache
